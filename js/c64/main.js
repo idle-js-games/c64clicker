@@ -131,7 +131,7 @@ define([
         var promise = $.Deferred();
 
         $.ajax({
-            url: '/rom/game.zip',
+            url: '../rom/game.zip',
             dataType: 'arraybuffer',
             beforeSend: function(xhr) {
                 xhr.overrideMimeType("text/plain; charset=x-user-defined");
