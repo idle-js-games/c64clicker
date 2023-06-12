@@ -22,7 +22,7 @@ body {
     margin: 0 auto;
     width: 776px;
     height: 90px;
-    background: url(/img/cclicker.png) no-repeat top left;
+    background: url(./img/cclicker.png) no-repeat top left;
     text-indent: -9999px;
     font-size: 1px;
 }
